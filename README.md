@@ -13,6 +13,6 @@ To run the app, run
 ```bash
   streamlit run app.py
 ```
-![image](testcase1.PNG)
-![image](testcase2.PNG)
+![image](testcase1.png)
+![image](testcase2.png)
 Note: Make sure all the dependancies mentioned in requirements.txt are installed 
